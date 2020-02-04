@@ -17,10 +17,10 @@ The groundwater - surface-moisture model has been described in:
 Brakenhoff, L.B., Y. Smit, J.J.A. Donker and G. Ruessink, 2019. Tide-induced variability in beach surface moisture: observations and modelling. Earth Surface Processes and Landforms, 44, 317-330.
 
 A first version of the fetch model has been described in:
-Smit, Y., 2019. Surface moisture dynamics on a narrow coastal beach. PhD thesis, Utrecht University. ISSN 2211-4335.
-Hage, P., G. Ruessink, Z. van Aartrijk and J. Donker (under review). Using video monitoring to test a fetch-based aeolian sand transport model. Journal of Marine Science and Engineering.
+(1) Smit, Y., 2019. Surface moisture dynamics on a narrow coastal beach. PhD thesis, Utrecht University. ISSN 2211-4335.
+(2) Hage, P., G. Ruessink, Z. van Aartrijk and J. Donker (under review). Using video monitoring to test a fetch-based aeolian sand transport model. Journal of Marine Science and Engineering.
 
-We are currently working on a test of the model against a high-resolution, multi-annual data-set of foredune growth described in Ruessink et al. (2019), Data, 4, 73; doi:10.3390/data4020073. As soon as this paper has been submitted (probably mid-2020), the remaining code, with examples, will be made open-access.
+We are currently working on a test of the model against a high-resolution, multi-annual data-set of foredune growth described in Ruessink et al. (2019), Data, 4, 73; doi:10.3390/data4020073. As soon as this paper has been submitted (probably mid-2020), the remaining code, with examples, will be made fully available.
 
 Funded by the Dutch Technology Foundation (STW) of the Netherlands Organisation for Scientific Research (NWO), Vici project #13709 awarded to Gerben Ruessink.
 
