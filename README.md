@@ -22,6 +22,6 @@ The fetch module has seen substantial improvement over the years, as witnessed i
 
 I am currently working on a test of the model against a high-resolution, multi-annual data-set of foredune growth described in Ruessink et al. (2019), Data, 4, 73; https://doi.org/10.3390/data4020073 (Open Access). The data can be found here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2635416.svg)](https://doi.org/10.5281/zenodo.2635416). As soon as the paper on this test has been submitted (probably early 2021), the remaining code, with examples, will be made fully available.
 
-Funded by the Dutch Technology Foundation (STW) of the Netherlands Organisation for Scientific Research (NWO), Vici project #13709 awarded to Gerben Ruessink.
+Funded by the Dutch Technology Foundation (STW) of the Netherlands Organisation for Scientific Research (NWO), Vici project #13709.
 
 Gerben Ruessink - November 25, 2020
