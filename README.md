@@ -1,6 +1,6 @@
 # Aeolus: Modelling wind-driven sand transport from the beach onto the foredune based on the fetch concept
 
-## Description
+### Description
 
 The Aeolus repository contains Matlab-scripts to predict meso-scale (seasonal to annual) aeolian input of beach sand into the foredune system. The Aeolus model has been motivated by two seminal papers:
 - Bauer, B.O. and R.G.D. Davidson-Arnott, 2002. A general framework for modeling sediment supply to coastal dunes including wind angle, beach geometry, and fetch effects. Geomorphology, 49, 89-108. https://doi.org/10.1016/S0169-555X(02)00165-4
