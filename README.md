@@ -21,6 +21,7 @@ The third module is posted in the directory Fetch. Its subdirectory "example" co
 The fetch module has seen various versions, as witnessed in the following papers: 
 - Hage, P., G. Ruessink, Z. van Aartrijk and J. Donker, 2020. Using video monitoring to test a fetch-based aeolian sand transport model. Journal of Marine Science and Engineering. https://doi.org/10.3390/jmse8020110 (Open Access)
 - Tuijnman, J., J.J.A. Donker, C.S. Schwarz and G. Ruessink, 2020. Consequences of a storm surge for aeolian sand transport on a low-gradient beach. Journal of Marine Science and Engineering. https://doi.org/10.3390/jmse8080584 (Open Access)
+
 In both papers the model was called Aeolus. But there appeared to be other Aeolus models, so Aeolus became Psamathe.
 
 The full model, including the most recent modifications to the fetch module, can be found in:
