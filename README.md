@@ -11,10 +11,14 @@ The Psamathe model has three main modules:
 - A surface moisture module that uses the Van Genunchten soil water retention curve to compute the spatio-temporal groundwater depth values from the first module into surface moisture;
 - A fetch-based aeolian sand transport equation, in which the downwind increase in aeolian transport is computed based on the fetch concept; the critical fetch depends on the wind speed and the spatially varying surface moisture.
 
+### Groundwater and surface moisture
+
 Modules 1 and 2 are posted in the directory Groundwater. Its subdirectory "example" contains an example run file with corrosponding input data. 
 
 The combined groundwater and surface-moisture modules have been described in:
 - Brakenhoff, L.B., Y. Smit, J.J.A. Donker and G. Ruessink, 2019. Tide-induced variability in beach surface moisture: observations and modelling. Earth Surface Processes and Landforms, 44, 317-330. https://doi.org/10.1002/esp.4493 (Open Access)
+
+### Fetch
 
 The third module is posted in the directory Fetch. Its subdirectory "example" contains an example run file with corresponding input data.
 
