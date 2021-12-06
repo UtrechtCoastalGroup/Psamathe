@@ -34,7 +34,7 @@ The full model, including the most recent modifications to the fetch module, can
 
 ### Final words
 
-Note that the code is research code. With comments, but no manual. If you have trouble finding out how it works, think you found a bug, or intend to make a new version, please let me know - b.g.ruessink@uu.nl.
+Note that the code is research code. With comments, but no manual. If you have trouble finding out how it works, think you found a bug, or intend to add a feature, please let me know - b.g.ruessink@uu.nl.
 
 Funded by the Dutch Technology Foundation (STW) of the Netherlands Organisation for Scientific Research (NWO), Vici project #13709.
 
