@@ -26,10 +26,8 @@ In both papers the model was called Aeolus. But there appeared to be other Aeolu
 
 The full model, including the most recent modifications to the fetch module, can be found in:
 
-ADD
-
-I am currently working on a test of the model against a high-resolution, multi-annual data-set of foredune growth described in Ruessink et al. (2019), Data, 4, 73; https://doi.org/10.3390/data4020073 (Open Access). The data can be found here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2635416.svg)](https://doi.org/10.5281/zenodo.2635416). As soon as the paper on this test has been submitted (probably early 2021), the remaining code, with examples, will be made fully available.
+- Ruessink, G., G. Sterk, Y. Smit, W. de Winter, P. Hage, J.J.A. Donker and B. Arens, under review. Predicting monthly to multi-annual foredune growth at a narrow beach. Earth Surface Processes and Landforms. (Will be updated once accepted for publication)
 
 Funded by the Dutch Technology Foundation (STW) of the Netherlands Organisation for Scientific Research (NWO), Vici project #13709.
 
-Gerben Ruessink - December 2, 2021
+Gerben Ruessink - December 6, 2021
