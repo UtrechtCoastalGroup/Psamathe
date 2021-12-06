@@ -32,7 +32,7 @@ The full model, including the most recent modifications to the fetch module, can
 
 - Ruessink, G., G. Sterk, Y. Smit, W. de Winter, P. Hage, J.J.A. Donker and B. Arens, under review. Predicting monthly to multi-annual foredune growth at a narrow beach. Earth Surface Processes and Landforms. (Will be updated once accepted for publication)
 
-### FINAL WORDS
+### Final words
 
 Note that the code is research code. With comments, but no manual. If you have trouble finding out how it works, think you found a bug, or intend to make a new version, please let me know - b.g.ruessink@uu.nl.
 
