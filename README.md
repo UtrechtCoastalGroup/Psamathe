@@ -20,7 +20,7 @@ The combined groundwater and surface-moisture modules have been described in:
 
 ### Fetch
 
-The third module is posted in the directory Fetch. There are two example subdirectories.
+The third module is posted in the directory Fetch. There is an example subdirectory; another one will be added fairly soon.
 
 The fetch module has seen various versions, as witnessed in the following papers: 
 - Hage, P., G. Ruessink, Z. van Aartrijk and J. Donker, 2020. Using video monitoring to test a fetch-based aeolian sand transport model. Journal of Marine Science and Engineering. https://doi.org/10.3390/jmse8020110 (Open Access)
